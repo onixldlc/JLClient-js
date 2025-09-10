@@ -1,6 +1,10 @@
 # JLClient-js
 
-JavaScript/Node.js API client for interacting with Jarvislabs.ai for creating GPU/CPU powered instances on top of A100, A6000, RTX 5000 and RTX6000Ada.
+This is project is a JavaScript/Node.js wrapper for [jarvislabsai/jlclient](https://github.com/jarvislabsai/jlclient) API client for interacting with Jarvislabs.ai for creating GPU/CPU powered instances on top of A100, A6000, RTX 5000 and RTX6000Ada.
+
+>[!warning]
+>This project is not maintained by the original author(s) or official community. And use this lib at your own discretion. \
+>The original JLClient python implementation can be accesed here [jarvislabsai/jlclient](https://github.com/jarvislabsai/jlclient)
 
 ## Installation
 
