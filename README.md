@@ -228,11 +228,3 @@ const options: InstanceOptions = {
 
 const instance = await Instance.create('GPU', options);
 ```
-
-## Issues/Feature request
-
-Do you like to see any new features? We are all ears. You can drop us an email to hello@jarvislabs.ai or chat with us for any new features or issues.
-
-## License
-
-This project is licensed under the terms of the MIT license.
