@@ -1,0 +1,25 @@
+{
+  "name": "jlclient-js",
+  "version": "0.1.0",
+  "description": "JavaScript/Node.js API client for interacting with Jarvislabs.ai for managing GPU/CPU powered instances",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "scripts": {
+    "test": "node test/test.js",
+    "start": "node src/index.js"
+  },
+  "keywords": ["jarvislabs", "gpu", "cloud", "ai", "machine-learning", "api-client"],
+  "author": "Team Jarvislabs.ai <hello@jarvislabs.ai>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jarvislabsai/jlclient-js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
