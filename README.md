@@ -9,7 +9,7 @@ This is project is a JavaScript/Node.js wrapper for [jarvislabsai/jlclient](http
 ## Installation
 
 ```shell
-npm install jlclient-js
+npm install git+https://github.com/onixldlc/JLClient-js.git
 ```
 
 ### Imports and configuration
